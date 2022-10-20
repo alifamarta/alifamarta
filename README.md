@@ -2,4 +2,4 @@
 
 - Facebook [Alif Amarta](https://facebook.com/CaptainSlow21)
 - Instagram [amartaa_21](https://instagram.com/amartaa_21)
-- twitter [alifamarta_](https://twitter.com/alifamarta_) (rarely used)
+- Twitter [alifamarta_](https://twitter.com/alifamarta_) (rarely used)
