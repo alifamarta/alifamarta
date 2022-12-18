@@ -1,4 +1,4 @@
-# Hi, I’m Alif Amarta
+# Hello, I’m Alif Amarta
 
 <br></br>
 
