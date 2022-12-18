@@ -1,5 +1,7 @@
 # Hello, I’m Alif Amarta
 
+I'm just a college student practicing programming language, I do the random things to get good like in [```random-things```](github.com/alifamarta/random-things)
+<br></br>
 <p align = "center"
    
    **MY SOCIAL MEDIA**
