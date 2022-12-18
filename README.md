@@ -3,7 +3,7 @@
 <p align = "center"
    
    **MY SOCIAL MEDIA**
-<br></br>
+
 <p align="center"
 
 [<img src="https://user-images.githubusercontent.com/115516820/197199448-6efa4c9b-9551-4f69-b9f7-7ff4a57943c8.png" width="35" />](https://facebook.com/CaptainSlow21)
