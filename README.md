@@ -1,4 +1,4 @@
->👋 Hi, I’m Alif Nur Fathlii Amarta ```alifamarta```
+- 👋 Hi, I’m Alif Nur Fathlii Amarta ```alifamarta```
 
 | Social Media | Username|
 | ------------ | --------|
