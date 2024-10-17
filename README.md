@@ -1,12 +1,6 @@
 # Hello, I’m Alif Amarta
 
-
-<p align = "center"
-   
-   **MY SOCIAL MEDIA**
-
-<p align="center"
-
-[<img src="https://user-images.githubusercontent.com/115516820/197199448-6efa4c9b-9551-4f69-b9f7-7ff4a57943c8.png" width="35" />](https://facebook.com/CaptainSlow21)
-[<img src="https://user-images.githubusercontent.com/115516820/197200923-2a87158b-26dc-4ede-a273-0dc4425a5154.png" width="35" />](https://instagram.com/alifamarta_)
-[<img src="https://user-images.githubusercontent.com/115516820/197201557-8354bde4-4635-4cbf-947a-dd2f863a6049.png" width="35" />](https://twitter.com/alifamarta_) 
+[<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook"/>](https://facebook.com/CaptainSlow21)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/alifamarta_)
+[<img src="https://img.shields.io/badge/twitter%2Fx-black?style=for-the-badge&logo=x" width="123"/>](https://twitter.com/alifamarta_)
+[<img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black" width="95"/>](https://github.com/alifamarta)
