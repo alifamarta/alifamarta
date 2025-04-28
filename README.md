@@ -1,4 +1,4 @@
-# Hello, I’m Alif Amarta
+# Hi, I’m Alif Amarta 
 
 [<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook"/>](https://facebook.com/CaptainSlow21)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/alifamarta_)
